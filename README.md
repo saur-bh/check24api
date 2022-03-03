@@ -24,6 +24,7 @@ Install node.js and npm on the system
 ## Setup
 
 * Must have NodeJS and NPM installed (https://nodejs.org/en/)
+* Clone the project 
 * Install dependencies by running `npm install`
 
 ## Running Tests
